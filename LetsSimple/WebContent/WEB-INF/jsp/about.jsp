@@ -70,25 +70,17 @@
 <style type="text/css"></style>
 </head>
 <body>
-	<div id="talk" style="z-index: 999999; position: fixed; right: 0px; width: 180px; height: 120px; vertical-align: middle; background: #fff; ">
+	<div id="talk" style="z-index: 999999; position: fixed; right: 0px; width: 180px; height: 150px; vertical-align: middle; background: #fff; ">
 		<div style="float: left; width: 30px; background: #f00; height: 100%; vertical-align: middle; text-align: center;">
-			<div style="line-height: 1.5; margin-top: 10px;">
+			<div style="line-height: 1.5; margin-top: 25px;">
 				<span style="font-size: 16px; font-weight: bolder;">代</span><br/>
 				<span style="font-size: 16px; font-weight: bolder;">理</span><br/>
 				<span style="font-size: 16px; font-weight: bolder;">咨</span><br/>
 				<span style="font-size: 16px; font-weight: bolder;">询</span><br/>
 			</div>
 		</div>
-		<div style="float: left; height: 100%; width: 150px;">
-			<div>
-				<img alt="" src="mainpage_files/QQ.jpg" style="width: 50px;">
-				<span style="font-size: 15px;">176185302</span>
-			</div>
-			<div>
-				<img alt="" src="mainpage_files/weixin.jpg" style="width: 35px; margin-left: 10px;">
-				<span style="font-size: 15px;">18820762081</span><br/>
-				<span style="margin-left: 50px; font-size: 15px;">（同手机）</span>
-			</div>
+		<div style="float: left; height: 100%; width: 150px; background-image: url(&quot;mainpage_files/erweima.jpg&quot;); background-size:cover;">
+			
 		</div>
 	</div>
 	<script type="text/javascript">

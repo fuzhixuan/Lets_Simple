@@ -157,7 +157,7 @@
 															<li class="w-nav-inner"
 																style="height: 69px; line-height: 69px; width: 33.3333%; z-index: 3;">
 																<div class="w-nav-item" style="z-index: 1;">
-																	<a href="https://simple.weiyianws.com/shop/?distributor_id=0&agent_shop_id=1431379&admin_id=23547" target="_blank"
+																	<a href="https://m.tb.cn/h.3xjh8Cb?sm=0ac401" target="_blank"
 																		class="w-nav-item-link" style="z-index: 1;"> <span
 																		class="mw-iconfont" style="z-index: 1;"></span> <span
 																		class="w-link-txt" style="z-index: 1;">简肌商城</span>
