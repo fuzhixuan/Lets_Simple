@@ -23,15 +23,6 @@ public class LetsSimpleController {
 		return mv;
 	}
 
-	@RequestMapping(value = "/club")
-	public ModelAndView club() {
-		ModelAndView mv = new ModelAndView();
-
-		mv.setViewName("club");
-
-		return mv;
-	}
-
 	@RequestMapping(value = "/about")
 	public ModelAndView about() {
 		ModelAndView mv = new ModelAndView();

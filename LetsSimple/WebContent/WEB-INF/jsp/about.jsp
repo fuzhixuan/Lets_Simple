@@ -73,10 +73,10 @@
 	<div id="talk" style="z-index: 999999; position: fixed; right: 0px; width: 180px; height: 120px; vertical-align: middle; background: #fff; ">
 		<div style="float: left; width: 30px; background: #f00; height: 100%; vertical-align: middle; text-align: center;">
 			<div style="line-height: 1.5; margin-top: 10px;">
-				<span style="font-size: 16px; font-weight: bolder;">联</span><br/>
-				<span style="font-size: 16px; font-weight: bolder;">系</span><br/>
-				<span style="font-size: 16px; font-weight: bolder;">方</span><br/>
-				<span style="font-size: 16px; font-weight: bolder;">式</span><br/>
+				<span style="font-size: 16px; font-weight: bolder;">代</span><br/>
+				<span style="font-size: 16px; font-weight: bolder;">理</span><br/>
+				<span style="font-size: 16px; font-weight: bolder;">咨</span><br/>
+				<span style="font-size: 16px; font-weight: bolder;">询</span><br/>
 			</div>
 		</div>
 		<div style="float: left; height: 100%; width: 150px;">

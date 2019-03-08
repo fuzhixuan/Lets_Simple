@@ -71,25 +71,17 @@
 </head>
 <body>
 <body id="smart-body" area="main" style="">
-	<div id="talk" style="z-index: 999999; position: fixed; right: 0px; width: 180px; height: 120px; vertical-align: middle; background: #fff; ">
+	<div id="talk" style="z-index: 999999; position: fixed; right: 0px; width: 180px; height: 150px; vertical-align: middle; background: #fff; ">
 		<div style="float: left; width: 30px; background: #f00; height: 100%; vertical-align: middle; text-align: center;">
-			<div style="line-height: 1.5; margin-top: 10px;">
-				<span style="font-size: 16px; font-weight: bolder;">联</span><br/>
-				<span style="font-size: 16px; font-weight: bolder;">系</span><br/>
-				<span style="font-size: 16px; font-weight: bolder;">方</span><br/>
-				<span style="font-size: 16px; font-weight: bolder;">式</span><br/>
+			<div style="line-height: 1.5; margin-top: 25px;">
+				<span style="font-size: 16px; font-weight: bolder;">代</span><br/>
+				<span style="font-size: 16px; font-weight: bolder;">理</span><br/>
+				<span style="font-size: 16px; font-weight: bolder;">咨</span><br/>
+				<span style="font-size: 16px; font-weight: bolder;">询</span><br/>
 			</div>
 		</div>
-		<div style="float: left; height: 100%; width: 150px;">
-			<div>
-				<img alt="" src="mainpage_files/QQ.jpg" style="width: 50px;">
-				<span style="font-size: 15px;">176185302</span>
-			</div>
-			<div>
-				<img alt="" src="mainpage_files/weixin.jpg" style="width: 35px; margin-left: 10px;">
-				<span style="font-size: 15px;">18820762081</span><br/>
-				<span style="margin-left: 50px; font-size: 15px;">（同手机）</span>
-			</div>
+		<div style="float: left; height: 100%; width: 150px; background-image: url(&quot;mainpage_files/erweima.jpg&quot;); background-size:cover;">
+			
 		</div>
 	</div>
 	
@@ -165,10 +157,10 @@
 															<li class="w-nav-inner"
 																style="height: 69px; line-height: 69px; width: 33.3333%; z-index: 3;">
 																<div class="w-nav-item" style="z-index: 1;">
-																	<a href="LetsSimpleController\main.do" target="_self"
+																	<a href="https://simple.weiyianws.com/shop/?distributor_id=0&agent_shop_id=1431379&admin_id=23547" target="_blank"
 																		class="w-nav-item-link" style="z-index: 1;"> <span
 																		class="mw-iconfont" style="z-index: 1;"></span> <span
-																		class="w-link-txt" style="z-index: 1;">简肌-美</span>
+																		class="w-link-txt" style="z-index: 1;">简肌商城</span>
 																	</a>
 																	<div class="sliding"
 																		style="width: 33.3333%; z-index: 2;"></div>
@@ -178,10 +170,10 @@
 															<li class="w-nav-inner"
 																style="height: 69px; line-height: 69px; width: 33.3333%; z-index: 3;">
 																<div class="w-nav-item" style="z-index: 1;">
-																	<a href="LetsSimpleController\club.do" target="_self"
+																	<a href="https://m.qlchat.com/wechat/page/live/2000002088090222" target="_blank"
 																		class="w-nav-item-link" style="z-index: 1;"> <span
 																		class="mw-iconfont" style="z-index: 1;"></span> <span
-																		class="w-link-txt" style="z-index: 1;">简肌-俱乐部</span>
+																		class="w-link-txt" style="z-index: 1;">简肌学院</span>
 																	</a>
 																	<div class="sliding"
 																		style="width: 33.3333%; z-index: 2;"></div>
@@ -191,10 +183,10 @@
 															<li class="w-nav-inner"
 																style="height: 69px; line-height: 69px; width: 33.3333%; z-index: 3;">
 																<div class="w-nav-item" style="z-index: 1;">
-																	<a href="LetsSimpleController\about.do" target="_self"
+																	<a href="LetsSimpleController\about.do"
 																		class="w-nav-item-link" style="z-index: 1;"> <span
 																		class="mw-iconfont" style="z-index: 1;"></span> <span
-																		class="w-link-txt" style="z-index: 1;">关于-简肌</span>
+																		class="w-link-txt" style="z-index: 1;">关于简肌</span>
 																	</a>
 																	<div class="sliding"
 																		style="width: 33.3333%; z-index: 2;"></div>
@@ -305,7 +297,7 @@
 											</div>
 										</div>
 										<div class="content-box-inner"
-											style="background-image: url(&quot;//nwzimg.wezhan.cn/contents/sitefiles2023/10117539/images/3441919.jpg&quot;); background-position: 50% 50%; background-repeat: no-repeat; background-size: auto; background-color: rgb(255, 255, 255); opacity: 1; z-index: 1;"></div>
+											style="background-image: url(&quot;mainpage_files/bg02.jpg&quot;); background-position: 50% 50%; background-repeat: no-repeat; background-size: auto; background-color: rgb(255, 255, 255); opacity: 1; z-index: 1;"></div>
 
 										<div
 											style="top: 0px; left: 0px; width: 1672px; height: 795px; z-index: 1000; display: none;"></div>
