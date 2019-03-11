@@ -70,17 +70,18 @@
 <style type="text/css"></style>
 </head>
 <body>
-	<div id="talk" style="z-index: 999999; position: fixed; right: 0px; width: 180px; height: 150px; vertical-align: middle; background: #fff; ">
+	<div id="talk" style="z-index: 999999; position: fixed; right: 0px; width: 180px; height: 180px; vertical-align: middle; background: #fff; ">
 		<div style="float: left; width: 30px; background: #f00; height: 100%; vertical-align: middle; text-align: center;">
-			<div style="line-height: 1.5; margin-top: 25px;">
+			<div style="line-height: 1.5; margin-top: 40px;">
 				<span style="font-size: 16px; font-weight: bolder;">代</span><br/>
 				<span style="font-size: 16px; font-weight: bolder;">理</span><br/>
 				<span style="font-size: 16px; font-weight: bolder;">咨</span><br/>
 				<span style="font-size: 16px; font-weight: bolder;">询</span><br/>
 			</div>
 		</div>
-		<div style="float: left; height: 100%; width: 150px; background-image: url(&quot;mainpage_files/erweima.jpg&quot;); background-size:cover;">
-			
+		<div style="float: left; height: 100%; width: 150px;">
+			<img alt="" src="mainpage_files/erweima.jpg" style="width: 100%; height: auto;">
+			<div style="position: absolute; bottom: 10px; width: 150px; text-align: center;"><span style="font-size: 20px;">18820762081</span></div>
 		</div>
 	</div>
 	<script type="text/javascript">
@@ -117,7 +118,7 @@
 								<a href="LetsSimpleController\main.do" target="_self"
 									class="w-nav-item-link" style="z-index: 1;"> <span
 									class="mw-iconfont" style="z-index: 1;"></span> <span
-									class="w-link-txt" style="z-index: 1;">简肌-美</span>
+									class="w-link-txt" style="z-index: 1;">首页</span>
 								</a>
 								<div class="sliding" style="width: 33.3333%; z-index: 2;"></div>
 							</div>
@@ -126,10 +127,10 @@
 						<li class="w-nav-inner"
 							style="height: 69px; line-height: 69px; width: 33.3333%; z-index: 3;">
 							<div class="w-nav-item" style="z-index: 1;">
-								<a href="LetsSimpleController\club.do" target="_self"
+								<a href="" target="_self"
 									class="w-nav-item-link" style="z-index: 1;"> <span
 									class="mw-iconfont" style="z-index: 1;"></span> <span
-									class="w-link-txt" style="z-index: 1;">简肌-俱乐部</span>
+									class="w-link-txt" style="z-index: 1;">产品说明</span>
 								</a>
 								<div class="sliding" style="width: 33.3333%; z-index: 2;"></div>
 							</div>
@@ -141,7 +142,7 @@
 								<a href="LetsSimpleController\about.do" target="_self"
 									class="w-nav-item-link" style="z-index: 1;"> <span
 									class="mw-iconfont" style="z-index: 1;"></span> <span
-									class="w-link-txt" style="z-index: 1;">关于-简肌</span>
+									class="w-link-txt" style="z-index: 1;">加盟我们</span>
 								</a>
 								<div class="sliding" style="width: 33.3333%; z-index: 2;"></div>
 							</div>
@@ -217,7 +218,7 @@
 			</div>
 		</div>
 
-		<div style="position: relative; height: 32px; left: 21px; top: 80px; z-index: 9; line-height: 2;">
+		<div style="left: 21px; z-index: 9; line-height: 2; padding-top: 80px;">
 			<span style="font-size: 20px; font-weight: bolder;">
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;简肌方式日用化妆品（广州）有限公司隶属于广州变美创新科技有限公司，专注于美妆产品升级以及创新，立志于打造一个深受年轻用户喜爱的，有创意、有审美、有趣靠谱的中国美妆潮牌，为年轻用户提供极具创新力的卓越产品以及美妆体验。同时，简肌方式Let's Simple通过社交零售方式，于移动互联网传播推广以及售卖产品，并将于未来泛渠道布局，打通线上线下，玩转新零售。简肌方式专注于"产品力、品牌力、渠道力"3大经营内核打造，立志于3年内打造一个估值过十亿的新零售社交众创品牌。
 			</span>
@@ -264,7 +265,13 @@
 				</ol>
 			</div>
 		</div>
+		
+		<div>
+			<embed src="mainpage_files/vedio/vedio01.mp4">
+			<embed src="mainpage_files/vedio/vedio02.mp4">
+		</div>
 	</div>
+	
 	
 </body>
 </html>

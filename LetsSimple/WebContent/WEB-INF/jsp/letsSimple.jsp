@@ -71,17 +71,18 @@
 </head>
 <body>
 <body id="smart-body" area="main" style="">
-	<div id="talk" style="z-index: 999999; position: fixed; right: 0px; width: 180px; height: 150px; vertical-align: middle; background: #fff; ">
+	<div id="talk" style="z-index: 999999; position: fixed; right: 0px; width: 180px; height: 180px; vertical-align: middle; background: #fff; ">
 		<div style="float: left; width: 30px; background: #f00; height: 100%; vertical-align: middle; text-align: center;">
-			<div style="line-height: 1.5; margin-top: 25px;">
+			<div style="line-height: 1.5; margin-top: 40px;">
 				<span style="font-size: 16px; font-weight: bolder;">代</span><br/>
 				<span style="font-size: 16px; font-weight: bolder;">理</span><br/>
 				<span style="font-size: 16px; font-weight: bolder;">咨</span><br/>
 				<span style="font-size: 16px; font-weight: bolder;">询</span><br/>
 			</div>
 		</div>
-		<div style="float: left; height: 100%; width: 150px; background-image: url(&quot;mainpage_files/erweima.jpg&quot;); background-size:cover;">
-			
+		<div style="float: left; height: 100%; width: 150px;">
+			<img alt="" src="mainpage_files/erweima.jpg" style="width: 100%; height: auto;">
+			<div style="position: absolute; bottom: 10px; width: 150px; text-align: center;"><span style="font-size: 20px;">18820762081</span></div>
 		</div>
 	</div>
 	
